@@ -30,10 +30,11 @@ I'm a Frontend-Developer ✨
 
 <div>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-43853D?style=flat&logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59?style=flat&logo=Express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-43853D?style=flat&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4?style=flat&logo=php&logoColor=white" />
   <br/>
-  
 </div>
 
 </br>
