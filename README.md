@@ -14,6 +14,7 @@ I'm a Frontend-Developer ✨
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-61DAFB?style=flat&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-61DAFB?style=flat&logo=Zustand&logoColor=white"/>
   </br>
 
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
