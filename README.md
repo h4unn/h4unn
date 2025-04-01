@@ -17,8 +17,6 @@ I'm a Frontend-Developer ✨
   <img src="https://img.shields.io/badge/Zustand-61DAFB?style=flat&logo=Zustand&logoColor=white"/>
   </br>
 
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat&logo=Vuex&logoColor=white"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
