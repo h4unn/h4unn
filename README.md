@@ -32,13 +32,10 @@ I'm a Frontend-Developer ✨
 
 <div>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun.js-8be9fd?style=flat&logo=bun.js&color=8be9fd" />
-  <img src="https://img.shields.io/badge/ElysiaJS-6f42c1?style=flat&logo=ElysiaJS&color=6f42c1"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-43853D?style=flat&logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-43853D?style=flat&logo=MongoDB&logoColor=white" />
   <br/>
   
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white" />
 </div>
 
 </br>
